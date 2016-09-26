@@ -1,0 +1,16 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+#main {
+    background-color: cyan;
+}
+
+.first-child {
+    overflow-y: scroll;
+}
+
+.yellow {
+    background-color: yellow;
+}
